@@ -1,54 +1,70 @@
-[
-  {
-    "title": "Модуль 1. Вебинар 1. Основы HTML часть 1",
-    "url": "https://www.youtube.com/watch?v=k6IxRD5BEXY"
-  },
-  {
-    "title": "Модуль 1. Вебинар №2. Основы HTML часть 2",
-    "url": "https://www.youtube.com/watch?v=lKAVnNi9ZCM"
-  },
-  {
-    "title": "Модуль 2. Вебинар №3. Основы CSS. Селекторы. Цвет.",
-    "url": "https://www.youtube.com/watch?v=bn9yIxt_rtg"
-  },
-  {
-    "title": "Модуль 2. Вебинар №4. Оформление текста и шрифты",
-    "url": "https://www.youtube.com/watch?v=KM5r3qtBdxY"
-  },
-  {
-    "title": "Модуль 3. Вебинар 5. Блочная Модель",
-    "url": "https://www.youtube.com/watch?v=_StgByWohXQ"
-  },
-  {
-    "title": "Модуль 3. Вебинар №6. Flexbox",
-    "url": "https://www.youtube.com/watch?v=c32Jb9Ejz4k"
-  },
-  {
-    "title": "Вебинар №7. Фон и декоративные элементы",
-    "url": "https://www.youtube.com/watch?v=VThG4A-4bJQ"
-  },
-  {
-    "title": "Модуль 4. Вебинар №8. Векторная графика",
-    "url": "https://www.youtube.com/watch?v=GmEY7lL7YXE"
-  },
-  {
-    "title": "Модуль 5. Вебинар №9. Позиционированные элементы",
-    "url": "https://www.youtube.com/watch?v=K_Jxc8VgSIk"
-  },
-  {
-    "title": "Модуль 5. Вебинар №10. Переходы и анимация",
-    "url": "https://www.youtube.com/watch?v=wGLls08ReMg"
-  },
-  {
-    "title": "Модуль 6. Вебинар №11. Разметка форм",
-    "url": "https://www.youtube.com/watch?v=Ssws6DoJ3oY"
-  },
-  {
-    "title": "Модуль 6. Вебинар №12. Стилизация Форм",
-    "url": "https://www.youtube.com/watch?v=wahf3ZcDxV4"
-  },
-  {
-    "title": "Модуль 7. Вебинар №13. Препроцессор SASS",
-    "url": "https://www.youtube.com/watch?v=AjzUOmu6DQs"
-  }
-]
+{
+  "videos": [
+    {
+      "title": "Модуль 1. Вебинар 1. Основы HTML часть 1",
+      "url": "https://www.youtube.com/watch?v=k6IxRD5BEXY"
+    },
+    {
+      "title": "Модуль 1. Вебинар №2. Основы HTML часть 2",
+      "url": "https://www.youtube.com/watch?v=lKAVnNi9ZCM"
+    },
+    {
+      "title": "Модуль 2. Вебинар №3. Основы CSS. Селекторы. Цвет.",
+      "url": "https://www.youtube.com/watch?v=bn9yIxt_rtg"
+    },
+    {
+      "title": "Модуль 2. Вебинар №4. Оформление текста и шрифты",
+      "url": "https://www.youtube.com/watch?v=KM5r3qtBdxY"
+    },
+    {
+      "title": "Модуль 3. Вебинар 5. Блочная Модель",
+      "url": "https://www.youtube.com/watch?v=_StgByWohXQ"
+    },
+    {
+      "title": "Модуль 3. Вебинар №6. Flexbox",
+      "url": "https://www.youtube.com/watch?v=c32Jb9Ejz4k"
+    },
+    {
+      "title": "Вебинар №7. Фон и декоративные элементы",
+      "url": "https://www.youtube.com/watch?v=VThG4A-4bJQ"
+    },
+    {
+      "title": "Модуль 4. Вебинар №8. Векторная графика",
+      "url": "https://www.youtube.com/watch?v=GmEY7lL7YXE"
+    },
+    {
+      "title": "Модуль 5. Вебинар №9. Позиционированные элементы",
+      "url": "https://www.youtube.com/watch?v=K_Jxc8VgSIk"
+    },
+    {
+      "title": "Модуль 5. Вебинар №10. Переходы и анимация",
+      "url": "https://www.youtube.com/watch?v=wGLls08ReMg"
+    },
+    {
+      "title": "Модуль 6. Вебинар №11. Разметка форм",
+      "url": "https://www.youtube.com/watch?v=Ssws6DoJ3oY"
+    },
+    {
+      "title": "Модуль 6. Вебинар №12. Стилизация Форм",
+      "url": "https://www.youtube.com/watch?v=wahf3ZcDxV4"
+    },
+    {
+      "title": "Модуль 7. Вебинар №13. Препроцессор SASS",
+      "url": "https://www.youtube.com/watch?v=AjzUOmu6DQs"
+    }
+  ],
+  "materials": [
+    {
+      "title": "html-css-homeworks",
+      "url": "https://github.com/goitacademy/html-css-homework"
+    },
+    {
+      "title": "lesson code",
+      "url": "https://github.com/luxplanjay/html-css-22"
+    },
+    {
+      "title": "gulp-boilerplate",
+      "url": "https://github.com/luxplanjay/gulp-boilerplate"
+    }
+  ]
+}

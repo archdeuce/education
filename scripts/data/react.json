@@ -1,62 +1,74 @@
-[
-  {
-    "title": "[React 21] Компоненты и коллекции (23.11)",
-    "url": "https://www.youtube.com/watch?v=kfX5HTQD26E"
-  },
-  {
-    "title": "[React 21+22] Вопрос-ответ. (04.12.20)",
-    "url": "https://www.youtube.com/watch?v=t43QFSC0j9E"
-  },
-  {
-    "title": "[React 21+22] Занятие 2 Стилизация компонент. (25.11.20)",
-    "url": "https://www.youtube.com/watch?v=qVTTrMo7dMM"
-  },
-  {
-    "title": "React 21+22. Занятие 6 - HTTP запросы. (09.12.2020)",
-    "url": "https://www.youtube.com/watch?v=xoG3l2PgiYY"
-  },
-  {
-    "title": "React 21+22. Хуки часть 1. 14.12.20",
-    "url": "https://www.youtube.com/watch?v=S1NrJZscSrc"
-  },
-  {
-    "title": "React 21+22. Хуки часть 2. 16.12.2020",
-    "url": "https://www.youtube.com/watch?v=KslUxJrXY3Y"
-  },
-  {
-    "title": "React 21+22. Занятие 9 - React Router. 21.12.2020",
-    "url": "https://www.youtube.com/watch?v=IY_btZ2pYpw"
-  },
-  {
-    "title": "React 21+22. Занятие 10 - Разделение кода. 23.12.20",
-    "url": "https://www.youtube.com/watch?v=MV5VRijYfxw"
-  },
-  {
-    "title": "React 21+22. Занятие 11 - Дополнительное занятие 28.12.20",
-    "url": "https://www.youtube.com/watch?v=-DZCq-TUlKE"
-  },
-  {
-    "title": "React 21+22. Занятие 11 Основы Redux. 11.01.21",
-    "url": "https://www.youtube.com/watch?v=5-feoNB3HBI"
-  },
-  {
-    "title": "React 21+22. Занятие React-redux хуки. 13.01.21",
-    "url": "https://www.youtube.com/watch?v=4mtmkr2_jUI"
-  },
-  {
-    "title": "React 21+22. Занятие 13 - Асинхронный Redux. (18.01.21)",
-    "url": "https://www.youtube.com/watch?v=wprYz1i5MI0"
-  },
-  {
-    "title": "React 21+22. Занятие 14 - Нормализация состояния.20.01.21",
-    "url": "https://www.youtube.com/watch?v=F7kxQWemOVw"
-  },
-  {
-    "title": "ReactOn 21+22. Занятие 15. Работа с пользователями часть1. 25.01.21",
-    "url": "https://www.youtube.com/watch?v=ZvfcVZcZUEY"
-  },
-  {
-    "title": "React 21+22. Занятие 15. Работа с пользователями часть2. 28.01.21",
-    "url": "https://www.youtube.com/watch?v=nve1tVdc2W0"
-  }
-]
+{
+  "videos": [
+    {
+      "title": "[React 21] Компоненты и коллекции (23.11)",
+      "url": "https://www.youtube.com/watch?v=kfX5HTQD26E"
+    },
+    {
+      "title": "[React 21+22] Вопрос-ответ. (04.12.20)",
+      "url": "https://www.youtube.com/watch?v=t43QFSC0j9E"
+    },
+    {
+      "title": "[React 21+22] Занятие 2 Стилизация компонент. (25.11.20)",
+      "url": "https://www.youtube.com/watch?v=qVTTrMo7dMM"
+    },
+    {
+      "title": "React 21+22. Занятие 6 - HTTP запросы. (09.12.2020)",
+      "url": "https://www.youtube.com/watch?v=xoG3l2PgiYY"
+    },
+    {
+      "title": "React 21+22. Хуки часть 1. 14.12.20",
+      "url": "https://www.youtube.com/watch?v=S1NrJZscSrc"
+    },
+    {
+      "title": "React 21+22. Хуки часть 2. 16.12.2020",
+      "url": "https://www.youtube.com/watch?v=KslUxJrXY3Y"
+    },
+    {
+      "title": "React 21+22. Занятие 9 - React Router. 21.12.2020",
+      "url": "https://www.youtube.com/watch?v=IY_btZ2pYpw"
+    },
+    {
+      "title": "React 21+22. Занятие 10 - Разделение кода. 23.12.20",
+      "url": "https://www.youtube.com/watch?v=MV5VRijYfxw"
+    },
+    {
+      "title": "React 21+22. Занятие 11 - Дополнительное занятие 28.12.20",
+      "url": "https://www.youtube.com/watch?v=-DZCq-TUlKE"
+    },
+    {
+      "title": "React 21+22. Занятие 11 Основы Redux. 11.01.21",
+      "url": "https://www.youtube.com/watch?v=5-feoNB3HBI"
+    },
+    {
+      "title": "React 21+22. Занятие React-redux хуки. 13.01.21",
+      "url": "https://www.youtube.com/watch?v=4mtmkr2_jUI"
+    },
+    {
+      "title": "React 21+22. Занятие 13 - Асинхронный Redux. (18.01.21)",
+      "url": "https://www.youtube.com/watch?v=wprYz1i5MI0"
+    },
+    {
+      "title": "React 21+22. Занятие 14 - Нормализация состояния.20.01.21",
+      "url": "https://www.youtube.com/watch?v=F7kxQWemOVw"
+    },
+    {
+      "title": "ReactOn 21+22. Занятие 15. Работа с пользователями часть1. 25.01.21",
+      "url": "https://www.youtube.com/watch?v=ZvfcVZcZUEY"
+    },
+    {
+      "title": "React 21+22. Занятие 15. Работа с пользователями часть2. 28.01.21",
+      "url": "https://www.youtube.com/watch?v=nve1tVdc2W0"
+    }
+  ],
+  "materials": [
+    {
+      "title": "react-homeworks",
+      "url": "https://github.com/goitacademy/react-homework"
+    },
+    {
+      "title": "lesson code",
+      "url": "https://github.com/luxplanjay/react-21-22/tree/main"
+    }
+  ]
+}

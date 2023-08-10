@@ -1,126 +1,142 @@
-[
-  {
-    "title": "Работа с интерфейсом автоматической проверки домашних заданий по JavaScript",
-    "url": "https://www.youtube.com/watch?v=9PfS7IqNuf0"
-  },
-  {
-    "title": "[JavaScript:#22] Модуль 1. Переменные и ветвления",
-    "url": "https://www.youtube.com/watch?v=WmfSe8S8vDs"
-  },
-  {
-    "title": "Модуль 1. Вебинар 2. Ветвления и циклы",
-    "url": "https://www.youtube.com/watch?v=K5uLzN8Kn5Y"
-  },
-  {
-    "title": "Модуль 2. Занятие 3. Массивы",
-    "url": "https://www.youtube.com/watch?v=iY5KXNFuEVg"
-  },
-  {
-    "title": "Модуль 2. Занятие 4. Функции",
-    "url": "https://www.youtube.com/watch?v=414JiAS0pPE"
-  },
-  {
-    "title": "Модуль 3. Занятие 5. Объекты (03.08)",
-    "url": "https://www.youtube.com/watch?v=OZkaGAcphIg"
-  },
-  {
-    "title": "Модуль 3. Занятие 6. Объекты",
-    "url": "https://www.youtube.com/watch?v=nW2JV_ZX7jU&feature=youtu.be&app=desktop"
-  },
-  {
-    "title": "Модуль 4. Занятие 7. Callback-функции и замыкания (11.08)",
-    "url": "https://www.youtube.com/watch?v=_wcFovNQTWU"
-  },
-  {
-    "title": "[JavaScript 22] Модуль №4. Занятие №8. Ключевое слово this (13.08.2020)",
-    "url": "https://www.youtube.com/watch?v=d-OuFFUFy9I"
-  },
-  {
-    "title": "Модуль 5. Занятие 9. Прототипное наследование (17.08)",
-    "url": "https://www.youtube.com/watch?v=2Dd5Q2L457o"
-  },
-  {
-    "title": "Модуль 5. Занятие 10. Классы(20.08)",
-    "url": "https://www.youtube.com/watch?v=Hk8B6fSHQ7A"
-  },
-  {
-    "title": "Модуль 6. Занятие 11. Перебирающие методы массивов часть 1(27.08)",
-    "url": "https://www.youtube.com/watch?v=Hl4_H5wObM4"
-  },
-  {
-    "title": "https://www.youtube.com/watch?v=kB6lTfrvlRg",
-    "url": "Модуль 6. Занятие 12. Перебирающие методы массивов часть 2(31.08)"
-  },
-  {
-    "title": "Модуль 7. Занятие 13. Объектная модель документа (DOM)(14/09)",
-    "url": "https://www.youtube.com/watch?v=Haq2JIuE6Rg"
-  },
-  {
-    "title": "Модуль 7. Занятие 14. События (17.09)",
-    "url": "https://www.youtube.com/watch?v=iJq-NwbZL84"
-  },
-  {
-    "title": "Модуль 8. Занятие 15. Делегированиет событий(21/09)",
-    "url": "https://www.youtube.com/watch?v=pNxBoxbnTVA"
-  },
-  {
-    "title": "Модуль 8. Занятие 16. Chatty events и image lazy-loading (24/09)",
-    "url": "https://www.youtube.com/watch?feature=youtu.be&v=kxwN7eXBNDQ&app=desktop"
-  },
-  {
-    "title": "Модуль 9. Занятие 17. Node.js и npm (28/09/2020)",
-    "url": "https://www.youtube.com/watch?v=Zm-03ilbFnc"
-  },
-  {
-    "title": "[JavaScript 22] Questions-Answers. 15/10/20",
-    "url": "https://www.youtube.com/watch?v=b47VVu1fiyU"
-  },
-  {
-    "title": "Модуль 9. Занятие 18. Webpack (01/10/2020)",
-    "url": "https://www.youtube.com/watch?v=OhlvXOzGOTI"
-  },
-  {
-    "title": "Модуль 10. Занятие 19. Библиотеки (05/10/2020)",
-    "url": "https://www.youtube.com/watch?v=Fh8d14cY9AM"
-  },
-  {
-    "title": "Модуль 10. Занятие 20. Мастерская: знакомство с веб-приложениями (08/10/2020)",
-    "url": "https://www.youtube.com/watch?v=p4XGoF0sFJM"
-  },
-  {
-    "title": "[JavaScript 22] Модуль 11. Занятие 21. Асинхронность: таймеры 19/10/20",
-    "url": "https://www.youtube.com/watch?v=jMNproAL94I"
-  },
-  {
-    "title": "Модуль 11. Занятие 22. Промисы. 21/10/20",
-    "url": "https://www.youtube.com/watch?v=_meqUlyIEHc"
-  },
-  {
-    "title": "Модуль 12. HTTP-запросы (AJAX) 26/10/20",
-    "url": "https://www.youtube.com/watch?v=qjiUZOLJ1lA"
-  },
-  {
-    "title": "Модуль 12. REST-пагинация и бесконечный скрол. 28.10.20",
-    "url": "https://www.youtube.com/watch?v=poxVZxvONF8"
-  },
-  {
-    "title": "Модуль 13. Занятие 25. CRUD. 02.11",
-    "url": "https://www.youtube.com/watch?v=WMmFT8i2BS8"
-  },
-  {
-    "title": "Модуль 13. Асинхронные функции (async/await). 03.11.20",
-    "url": "https://www.youtube.com/watch?v=2lvJn5yrv5c"
-  },
-  {
-    "title": "[JavaScript#22] Бесконечный скрол (11.11.20)",
-    "url": "https://www.youtube.com/watch?v=B0vwmjOznEI"
-  },
-  {
-    "title": "Проект JS 22 online (Владислав) (16.11.20)",
-    "url": "https://www.youtube.com/watch?v=Kr_Wf7zWbwo"
-  },
-  {
-    "title": "Деплой на GitHub Pages",
-    "url": "https://drive.google.com/file/d/13LVUU_eNGXTRiv8eiBNTkomIHrBMUx3e/view"
-  }
-]
+{
+  "videos": [
+    {
+      "title": "Работа с интерфейсом автоматической проверки домашних заданий по JavaScript",
+      "url": "https://www.youtube.com/watch?v=9PfS7IqNuf0"
+    },
+    {
+      "title": "[JavaScript:#22] Модуль 1. Переменные и ветвления",
+      "url": "https://www.youtube.com/watch?v=WmfSe8S8vDs"
+    },
+    {
+      "title": "Модуль 1. Вебинар 2. Ветвления и циклы",
+      "url": "https://www.youtube.com/watch?v=K5uLzN8Kn5Y"
+    },
+    {
+      "title": "Модуль 2. Занятие 3. Массивы",
+      "url": "https://www.youtube.com/watch?v=iY5KXNFuEVg"
+    },
+    {
+      "title": "Модуль 2. Занятие 4. Функции",
+      "url": "https://www.youtube.com/watch?v=414JiAS0pPE"
+    },
+    {
+      "title": "Модуль 3. Занятие 5. Объекты (03.08)",
+      "url": "https://www.youtube.com/watch?v=OZkaGAcphIg"
+    },
+    {
+      "title": "Модуль 3. Занятие 6. Объекты",
+      "url": "https://www.youtube.com/watch?v=nW2JV_ZX7jU&feature=youtu.be&app=desktop"
+    },
+    {
+      "title": "Модуль 4. Занятие 7. Callback-функции и замыкания (11.08)",
+      "url": "https://www.youtube.com/watch?v=_wcFovNQTWU"
+    },
+    {
+      "title": "[JavaScript 22] Модуль №4. Занятие №8. Ключевое слово this (13.08.2020)",
+      "url": "https://www.youtube.com/watch?v=d-OuFFUFy9I"
+    },
+    {
+      "title": "Модуль 5. Занятие 9. Прототипное наследование (17.08)",
+      "url": "https://www.youtube.com/watch?v=2Dd5Q2L457o"
+    },
+    {
+      "title": "Модуль 5. Занятие 10. Классы(20.08)",
+      "url": "https://www.youtube.com/watch?v=Hk8B6fSHQ7A"
+    },
+    {
+      "title": "Модуль 6. Занятие 11. Перебирающие методы массивов часть 1(27.08)",
+      "url": "https://www.youtube.com/watch?v=Hl4_H5wObM4"
+    },
+    {
+      "title": "https://www.youtube.com/watch?v=kB6lTfrvlRg",
+      "url": "Модуль 6. Занятие 12. Перебирающие методы массивов часть 2(31.08)"
+    },
+    {
+      "title": "Модуль 7. Занятие 13. Объектная модель документа (DOM)(14/09)",
+      "url": "https://www.youtube.com/watch?v=Haq2JIuE6Rg"
+    },
+    {
+      "title": "Модуль 7. Занятие 14. События (17.09)",
+      "url": "https://www.youtube.com/watch?v=iJq-NwbZL84"
+    },
+    {
+      "title": "Модуль 8. Занятие 15. Делегированиет событий(21/09)",
+      "url": "https://www.youtube.com/watch?v=pNxBoxbnTVA"
+    },
+    {
+      "title": "Модуль 8. Занятие 16. Chatty events и image lazy-loading (24/09)",
+      "url": "https://www.youtube.com/watch?feature=youtu.be&v=kxwN7eXBNDQ&app=desktop"
+    },
+    {
+      "title": "Модуль 9. Занятие 17. Node.js и npm (28/09/2020)",
+      "url": "https://www.youtube.com/watch?v=Zm-03ilbFnc"
+    },
+    {
+      "title": "[JavaScript 22] Questions-Answers. 15/10/20",
+      "url": "https://www.youtube.com/watch?v=b47VVu1fiyU"
+    },
+    {
+      "title": "Модуль 9. Занятие 18. Webpack (01/10/2020)",
+      "url": "https://www.youtube.com/watch?v=OhlvXOzGOTI"
+    },
+    {
+      "title": "Модуль 10. Занятие 19. Библиотеки (05/10/2020)",
+      "url": "https://www.youtube.com/watch?v=Fh8d14cY9AM"
+    },
+    {
+      "title": "Модуль 10. Занятие 20. Мастерская: знакомство с веб-приложениями (08/10/2020)",
+      "url": "https://www.youtube.com/watch?v=p4XGoF0sFJM"
+    },
+    {
+      "title": "[JavaScript 22] Модуль 11. Занятие 21. Асинхронность: таймеры 19/10/20",
+      "url": "https://www.youtube.com/watch?v=jMNproAL94I"
+    },
+    {
+      "title": "Модуль 11. Занятие 22. Промисы. 21/10/20",
+      "url": "https://www.youtube.com/watch?v=_meqUlyIEHc"
+    },
+    {
+      "title": "Модуль 12. HTTP-запросы (AJAX) 26/10/20",
+      "url": "https://www.youtube.com/watch?v=qjiUZOLJ1lA"
+    },
+    {
+      "title": "Модуль 12. REST-пагинация и бесконечный скрол. 28.10.20",
+      "url": "https://www.youtube.com/watch?v=poxVZxvONF8"
+    },
+    {
+      "title": "Модуль 13. Занятие 25. CRUD. 02.11",
+      "url": "https://www.youtube.com/watch?v=WMmFT8i2BS8"
+    },
+    {
+      "title": "Модуль 13. Асинхронные функции (async/await). 03.11.20",
+      "url": "https://www.youtube.com/watch?v=2lvJn5yrv5c"
+    },
+    {
+      "title": "[JavaScript#22] Бесконечный скрол (11.11.20)",
+      "url": "https://www.youtube.com/watch?v=B0vwmjOznEI"
+    },
+    {
+      "title": "Проект JS 22 online (Владислав) (16.11.20)",
+      "url": "https://www.youtube.com/watch?v=Kr_Wf7zWbwo"
+    },
+    {
+      "title": "Деплой на GitHub Pages",
+      "url": "https://drive.google.com/file/d/13LVUU_eNGXTRiv8eiBNTkomIHrBMUx3e/view"
+    }
+  ],
+  "materials": [
+    {
+      "title": "javascript-homeworks",
+      "url": "https://github.com/goitacademy/javascript-homework"
+    },
+    {
+      "title": "lesson code",
+      "url": "https://drive.google.com/drive/folders/1f3faZuAsrlkqhYyTIV-8Morm4eGdrfPN"
+    },
+    {
+      "title": "webpack-starter-kit",
+      "url": "https://github.com/luxplanjay/webpack-starter-kit"
+    }
+  ]
+}

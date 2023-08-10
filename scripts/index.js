@@ -4,14 +4,22 @@ import nodejsData from "./data/nodejs.json" assert { type: "json" };
 import reactData from "./data/react.json" assert { type: "json" };
 
 const pageTitle = document.querySelector("title").innerText;
-const list = document.querySelector("ol");
+const videoList = document.querySelector("#videos");
+const materialsList = document.querySelector("#materials");
 
-const renderList = (data) => {
-  list.innerHTML = data
+const getListContent = (data = []) => {
+  return data
     .map(({ title, url }) => {
       return `<li><a href="${url}" target="_blank">${title}</a></li>`;
     })
     .join("");
+};
+
+const renderList = (data) => {
+  const { videos, materials } = data;
+
+  videoList.innerHTML = getListContent(videos);
+  materialsList.innerHTML = getListContent(materials);
 };
 
 switch (pageTitle) {
