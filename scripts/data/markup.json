@@ -25,7 +25,7 @@
       "url": "https://www.youtube.com/watch?v=c32Jb9Ejz4k"
     },
     {
-      "title": "Вебинар №7. Фон и декоративные элементы",
+      "title": "Модуль 3. Вебинар №7. Фон и декоративные элементы",
       "url": "https://www.youtube.com/watch?v=VThG4A-4bJQ"
     },
     {
@@ -63,8 +63,20 @@
       "url": "https://github.com/luxplanjay/html-css-22"
     },
     {
+      "title": "Figma",
+      "url": "https://www.figma.com/file/MXH6NI9ZA8u9GS0fGChENn/Web-Studio?node-id=0%3A1&mode=dev"
+    },
+    {
       "title": "gulp-boilerplate",
       "url": "https://github.com/luxplanjay/gulp-boilerplate"
+    },
+    {
+      "title": "Flexbox Froggy",
+      "url": "https://flexboxfroggy.com/"
+    },
+    {
+      "title": "Flexbox Playground",
+      "url": "https://www.outpan.com/app/1b970b008f/flexbox-playground"
     }
   ]
 }

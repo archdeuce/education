@@ -2,6 +2,7 @@ import javascriptData from "./data/javascript.json" assert { type: "json" };
 import markupData from "./data/markup.json" assert { type: "json" };
 import nodejsData from "./data/nodejs.json" assert { type: "json" };
 import reactData from "./data/react.json" assert { type: "json" };
+import gitData from "./data/git.json" assert { type: "json" };
 
 const pageTitle = document.querySelector("title").innerText;
 const videoList = document.querySelector("#videos");
@@ -34,6 +35,9 @@ switch (pageTitle) {
     break;
   case "NodeJS":
     renderList(nodejsData);
+    break;
+  case "Git":
+    renderList(gitData);
     break;
   default:
     break;

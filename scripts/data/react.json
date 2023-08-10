@@ -1,63 +1,131 @@
 {
   "videos": [
     {
-      "title": "[React 21] Компоненты и коллекции (23.11)",
+      "title": "Вебинар 1. Компоненты и коллекции. 09.06.20",
+      "url": "https://www.youtube.com/watch?v=2neLJoITCAk"
+    },
+    {
+      "title": "Вебинар 2. Стилизация компонент. 12.06.20",
+      "url": "https://www.youtube.com/watch?v=9AOISQG-GM4"
+    },
+    {
+      "title": "Вебинар 3. События и состояние. 16.06.20",
+      "url": "https://www.youtube.com/watch?v=terXi4NlcoI"
+    },
+    {
+      "title": "Вебинар 4. Формы. 19.06.20",
+      "url": "https://www.youtube.com/watch?v=2tPxoJxaCes"
+    },
+    {
+      "title": "Вебинар 5. Жизненный цикл. 23.06.20",
+      "url": "https://www.youtube.com/watch?v=w6MW1szKuT4"
+    },
+    {
+      "title": "Вебинар 6. HTTP-запросы. 26.06.20",
+      "url": "https://www.youtube.com/watch?v=HbTuKWBf_Fk"
+    },
+    {
+      "title": "Вебинар 7. Навигация в приложении. 30.06.20",
+      "url": "https://www.youtube.com/watch?v=K6lAf9AEB_g"
+    },
+    {
+      "title": "Вебинар 8. Разделение кода. 03.07.20",
+      "url": "https://www.youtube.com/watch?v=Godm6Ib4FYI"
+    },
+    {
+      "title": "Вебинар 9. Основы Redux. 14.07.20",
+      "url": "https://www.youtube.com/watch?v=5G-dG__cS0o"
+    },
+    {
+      "title": "Вебинар 10 - Библиотека Redux Toolkit. 17.07.20",
+      "url": "https://www.youtube.com/watch?v=DPk3jLTrPV8"
+    },
+    {
+      "title": "Вебинар 11 - Асинхронный Redux. 21.07.20",
+      "url": "https://www.youtube.com/watch?v=4V0mgp6r2ps"
+    },
+    {
+      "title": "Вебинар 12 - Селекторы и библиотека Reselect. 24.07.20",
+      "url": "https://www.youtube.com/watch?v=IR5C1CwF8ZI"
+    },
+    {
+      "title": "Вебинар 13 - Регистрация и логин пользователя. 28.07.20",
+      "url": "https://www.youtube.com/watch?v=yY6HongRdMI"
+    },
+    {
+      "title": "Вебинар 14 - Регистрация и логин пользователя. 31.07.20",
+      "url": "https://www.youtube.com/watch?v=9CajsD0mo_g"
+    },
+    {
+      "title": "Вебинар 12.08.20",
+      "url": "https://www.youtube.com/watch?v=GQoPaL1BgaM"
+    },
+    {
+      "title": "Вебинар 16. 19.08.20",
+      "url": "https://www.youtube.com/watch?v=9aA1oUJBZgY"
+    },
+    {
+      "title": "Question-Answer. 26/08/20",
+      "url": "https://www.youtube.com/watch?v=BzlzG00SBWY"
+    },
+    {
+      "title": "Компоненты и коллекции (23.11)",
       "url": "https://www.youtube.com/watch?v=kfX5HTQD26E"
     },
     {
-      "title": "[React 21+22] Вопрос-ответ. (04.12.20)",
+      "title": "Вопрос-ответ. (04.12.20)",
       "url": "https://www.youtube.com/watch?v=t43QFSC0j9E"
     },
     {
-      "title": "[React 21+22] Занятие 2 Стилизация компонент. (25.11.20)",
+      "title": "Занятие 2 Стилизация компонент. (25.11.20)",
       "url": "https://www.youtube.com/watch?v=qVTTrMo7dMM"
     },
     {
-      "title": "React 21+22. Занятие 6 - HTTP запросы. (09.12.2020)",
+      "title": "Занятие 6 - HTTP запросы. (09.12.2020)",
       "url": "https://www.youtube.com/watch?v=xoG3l2PgiYY"
     },
     {
-      "title": "React 21+22. Хуки часть 1. 14.12.20",
+      "title": "Хуки часть 1. 14.12.20",
       "url": "https://www.youtube.com/watch?v=S1NrJZscSrc"
     },
     {
-      "title": "React 21+22. Хуки часть 2. 16.12.2020",
+      "title": "Хуки часть 2. 16.12.2020",
       "url": "https://www.youtube.com/watch?v=KslUxJrXY3Y"
     },
     {
-      "title": "React 21+22. Занятие 9 - React Router. 21.12.2020",
+      "title": "Занятие 9 - React Router. 21.12.2020",
       "url": "https://www.youtube.com/watch?v=IY_btZ2pYpw"
     },
     {
-      "title": "React 21+22. Занятие 10 - Разделение кода. 23.12.20",
+      "title": "Занятие 10 - Разделение кода. 23.12.20",
       "url": "https://www.youtube.com/watch?v=MV5VRijYfxw"
     },
     {
-      "title": "React 21+22. Занятие 11 - Дополнительное занятие 28.12.20",
+      "title": "Занятие 11 - Дополнительное занятие 28.12.20",
       "url": "https://www.youtube.com/watch?v=-DZCq-TUlKE"
     },
     {
-      "title": "React 21+22. Занятие 11 Основы Redux. 11.01.21",
+      "title": "Занятие 11 Основы Redux. 11.01.21",
       "url": "https://www.youtube.com/watch?v=5-feoNB3HBI"
     },
     {
-      "title": "React 21+22. Занятие React-redux хуки. 13.01.21",
+      "title": "Занятие React-redux хуки. 13.01.21",
       "url": "https://www.youtube.com/watch?v=4mtmkr2_jUI"
     },
     {
-      "title": "React 21+22. Занятие 13 - Асинхронный Redux. (18.01.21)",
+      "title": "Занятие 13 - Асинхронный Redux. (18.01.21)",
       "url": "https://www.youtube.com/watch?v=wprYz1i5MI0"
     },
     {
-      "title": "React 21+22. Занятие 14 - Нормализация состояния.20.01.21",
+      "title": "Занятие 14 - Нормализация состояния.20.01.21",
       "url": "https://www.youtube.com/watch?v=F7kxQWemOVw"
     },
     {
-      "title": "ReactOn 21+22. Занятие 15. Работа с пользователями часть1. 25.01.21",
+      "title": "Занятие 15. Работа с пользователями часть1. 25.01.21",
       "url": "https://www.youtube.com/watch?v=ZvfcVZcZUEY"
     },
     {
-      "title": "React 21+22. Занятие 15. Работа с пользователями часть2. 28.01.21",
+      "title": "Занятие 15. Работа с пользователями часть2. 28.01.21",
       "url": "https://www.youtube.com/watch?v=nve1tVdc2W0"
     }
   ],

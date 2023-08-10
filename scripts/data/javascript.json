@@ -5,7 +5,7 @@
       "url": "https://www.youtube.com/watch?v=9PfS7IqNuf0"
     },
     {
-      "title": "[JavaScript:#22] Модуль 1. Переменные и ветвления",
+      "title": "Модуль 1. Переменные и ветвления",
       "url": "https://www.youtube.com/watch?v=WmfSe8S8vDs"
     },
     {
@@ -33,7 +33,7 @@
       "url": "https://www.youtube.com/watch?v=_wcFovNQTWU"
     },
     {
-      "title": "[JavaScript 22] Модуль №4. Занятие №8. Ключевое слово this (13.08.2020)",
+      "title": "Модуль 4. Занятие 8. Ключевое слово this (13.08.2020)",
       "url": "https://www.youtube.com/watch?v=d-OuFFUFy9I"
     },
     {
@@ -73,7 +73,7 @@
       "url": "https://www.youtube.com/watch?v=Zm-03ilbFnc"
     },
     {
-      "title": "[JavaScript 22] Questions-Answers. 15/10/20",
+      "title": "Questions-Answers. 15/10/20",
       "url": "https://www.youtube.com/watch?v=b47VVu1fiyU"
     },
     {
@@ -89,7 +89,7 @@
       "url": "https://www.youtube.com/watch?v=p4XGoF0sFJM"
     },
     {
-      "title": "[JavaScript 22] Модуль 11. Занятие 21. Асинхронность: таймеры 19/10/20",
+      "title": "Модуль 11. Занятие 21. Асинхронность: таймеры 19/10/20",
       "url": "https://www.youtube.com/watch?v=jMNproAL94I"
     },
     {
@@ -113,11 +113,11 @@
       "url": "https://www.youtube.com/watch?v=2lvJn5yrv5c"
     },
     {
-      "title": "[JavaScript#22] Бесконечный скрол (11.11.20)",
+      "title": "Бесконечный скрол (11.11.20)",
       "url": "https://www.youtube.com/watch?v=B0vwmjOznEI"
     },
     {
-      "title": "Проект JS 22 online (Владислав) (16.11.20)",
+      "title": "Проект JS 22 online (16.11.20)",
       "url": "https://www.youtube.com/watch?v=Kr_Wf7zWbwo"
     },
     {
@@ -137,6 +137,14 @@
     {
       "title": "webpack-starter-kit",
       "url": "https://github.com/luxplanjay/webpack-starter-kit"
+    },
+    {
+      "title": "Учебник JavaScript",
+      "url": "https://learn.javascript.ru/"
+    },
+    {
+      "title": "Задачи",
+      "url": "https://leetcode.com/problemset/all/"
     }
   ]
 }
