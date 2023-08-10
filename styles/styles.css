@@ -15,15 +15,20 @@ a:visited {
   font-size: 20px;
 }
 
-ol li {
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
   background-color: white;
 }
 
-ol li:hover {
+li:hover {
   background-color: #e8e8e8;
 }
 
-ol li {
+li {
   font-family: "Trebuchet MS", "Lucida Sans";
   padding: 7px 20px;
   margin-bottom: 10px;
@@ -37,14 +42,14 @@ ol li {
   transition: 0.3s all linear;
 }
 
-ol li:nth-child(4n + 2) {
+li:nth-child(4n + 2) {
   border-color: #8bc63e;
 }
 
-ol li:nth-child(4n + 3) {
+li:nth-child(4n + 3) {
   border-color: #fcba30;
 }
 
-ol li:nth-child(4n + 4) {
+li:nth-child(4n + 4) {
   border-color: #1ccfc9;
 }
