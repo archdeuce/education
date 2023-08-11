@@ -7,11 +7,16 @@
     <title>Markup</title>
   </head>
   <body>
-    <a href="/"><h1>Лекции</h1></a>
-    <ol id="videos"></ol>
+    <include src="./partials/header.html"></include>
+    <include src="./partials/top_arrow.html"></include>
 
-    <h1>Материалы</h1>
-    <ol id="materials"></ol>
+    <div class="content">
+      <h1>Лекции</h1>
+      <ol id="videos" class="colored__list"></ol>
+
+      <h1>Материалы</h1>
+      <ol id="materials" class="colored__list"></ol>
+    </div>
 
     <script type="module" src="./index.js"></script>
   </body>

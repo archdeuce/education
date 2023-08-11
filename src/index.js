@@ -7,6 +7,8 @@ import reactData from './data/react.json';
 const pageTitle = document.querySelector('title').innerText;
 const videoList = document.querySelector('#videos');
 const materialsList = document.querySelector('#materials');
+const topArrow = document.querySelector('#top-arrow');
+const navList = document.querySelectorAll('#nav-list>li>a');
 
 const getListContent = (data = []) => {
   return data
@@ -25,21 +27,45 @@ const renderList = data => {
 
 switch (pageTitle) {
   case 'Markup':
+    navList[0].classList.add('active__link');
     renderList(markupData);
-    console.log('markupData', markupData);
     break;
   case 'JavaScript':
+    navList[1].classList.add('active__link');
     renderList(javascriptData);
     break;
   case 'React':
+    navList[2].classList.add('active__link');
     renderList(reactData);
     break;
   case 'NodeJS':
+    navList[3].classList.add('active__link');
     renderList(nodejsData);
     break;
   case 'Git':
+    navList[4].classList.add('active__link');
     renderList(gitData);
     break;
   default:
     break;
 }
+
+const onScroll = () => {
+  if (document.body.scrollTop > 30 || document.documentElement.scrollTop > 30) {
+    isButtonVisible = true;
+    topArrow.classList.add('visible');
+  } else {
+    topArrow.classList.remove('visible');
+  }
+};
+
+const handleOnTop = () => {
+  window.scrollTo({
+    top: 0,
+    left: 0,
+    behavior: 'smooth',
+  });
+};
+
+window.addEventListener('scroll', onScroll);
+topArrow.addEventListener('click', handleOnTop);
