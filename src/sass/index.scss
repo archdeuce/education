@@ -52,8 +52,9 @@ nav {
   position: fixed;
   z-index: 999;
   opacity: 0;
+  pointer-events: none;
   transition: 0.3s;
-  cursor: pointer;
+  cursor: default;
 
   width: 40px;
   height: 40px;
@@ -121,6 +122,8 @@ ul {
 
 .visible {
   opacity: 1;
+  pointer-events: all;
+  cursor: pointer;
 }
 
 .active__link {
