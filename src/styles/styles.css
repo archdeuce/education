@@ -1,7 +1,7 @@
 body {
   width: 1200px;
   margin: 0 auto;
-  margin-bottom: 50px;
+  padding: 10px;
 }
 
 h1 {
@@ -29,7 +29,7 @@ li:hover {
 }
 
 li {
-  font-family: "Trebuchet MS", "Lucida Sans";
+  font-family: 'Trebuchet MS', 'Lucida Sans';
   padding: 7px 20px;
   margin-bottom: 10px;
   border-radius: 5px;
