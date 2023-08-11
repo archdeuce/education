@@ -115,36 +115,67 @@ summary {
   display: list-item;
 }
 
-.example {
-  color: #2f2f37;
-  background-color: #fff;
-  max-width: 960px;
-  padding: 16px;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif;
-  line-height: 1.5;
-}
-
-.example code {
-  color: #fff;
-  background-color: #ff6b0a;
-  border-radius: 2px;
-  padding: 2px 6px;
-  font-family: monospace;
-  font-size: 16px;
-  font-weight: 700;
-}
-
-.example .background {
-  background-image: url("logo.c493797d.png");
-  background-position: center;
-  background-size: cover;
-  height: 240px;
-}
-
 body {
   max-width: 1200px;
   margin: 0 auto;
+}
+
+.content {
   padding: 10px;
+}
+
+nav {
+  background-color: #fcbb30a5;
+  border: 2px solid #ddd;
+  border-radius: 1px;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 30px;
+  padding: 15px;
+  display: flex;
+  box-shadow: -2px 2px 2px #0000001a;
+}
+
+nav .site__logo {
+  height: 30px;
+}
+
+nav ul {
+  flex-wrap: wrap;
+  align-items: center;
+  margin: 0;
+  display: flex;
+}
+
+nav ul li {
+  padding-left: 10px;
+}
+
+nav ul li a {
+  font-weight: 600;
+  color: #00000091 !important;
+}
+
+nav ul li a:hover, nav ul li a:focus {
+  color: tomato !important;
+}
+
+.arrow__icon {
+  z-index: 999;
+  opacity: 0;
+  cursor: pointer;
+  fill: #2196f3;
+  width: 40px;
+  height: 40px;
+  transition: all .3s;
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+}
+
+.arrow__icon:hover {
+  fill: #1780d5;
+  transform: scale(1.1);
 }
 
 h1 {
@@ -163,7 +194,7 @@ ul {
   list-style: none;
 }
 
-li {
+.colored__list li {
   letter-spacing: 2px;
   background-color: #fff;
   border-left: 10px solid #f05d22;
@@ -176,24 +207,32 @@ li {
   box-shadow: 2px -2px 5px #0000001a, -2px -2px 5px #0000001a, 2px 2px 5px #0000001a, -2px 2px 5px #0000001a;
 }
 
-li:hover {
+.colored__list li:hover {
   background-color: #e8e8e8;
 }
 
-li:nth-child(4n+2) {
+.colored__list li:nth-child(4n+2) {
   border-color: #8bc63e;
 }
 
-li:nth-child(4n+3) {
+.colored__list li:nth-child(4n+3) {
   border-color: #fcba30;
 }
 
-li:nth-child(4n+4) {
+.colored__list li:nth-child(4n+4) {
   border-color: #1ccfc9;
 }
 
-li a {
+.colored__list li a {
   display: block;
 }
 
-/*# sourceMappingURL=index.b07a87f3.css.map */
+.visible {
+  opacity: 1;
+}
+
+.active__link {
+  color: tomato !important;
+}
+
+/*# sourceMappingURL=git.b07a87f3.css.map */
