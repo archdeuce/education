@@ -52,7 +52,6 @@ switch (pageTitle) {
 
 const onScroll = () => {
   if (document.body.scrollTop > 30 || document.documentElement.scrollTop > 30) {
-    isButtonVisible = true;
     topArrow.classList.add('visible');
   } else {
     topArrow.classList.remove('visible');
